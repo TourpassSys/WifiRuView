@@ -9,6 +9,14 @@
 4. DensePose From WiFi (Jiaqi Geng 등, arXiv 2023)
 
 
+AP 뉴스 
+https://www.youtube.com/watch?v=fGZzNZnYIHo
+
+What If Wifi Was Visible?
+https://www.youtube.com/watch?v=gYvKt0CT9bc
+
+
+
 
 # π RuView
 
