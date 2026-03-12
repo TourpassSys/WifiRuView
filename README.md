@@ -1,3 +1,15 @@
+나름 공부하고 싶은 공학도는 이 논문을 읽는걸 추천합니다. 
+논문 목록
+1. Tool Release: Gathering 802.11n Traces with Channel State Information (Daniel Halperin 등, ACM SIGCOMM CCR, 2011)
+
+2. See Through Walls with Wi-Fi! (Fadel Adib, Dina Katabi 등, ACM SIGCOMM 2013)
+
+3. 3D Tracking via Body Radio Reflections (WiTrack) (MIT, USENIX NSDI 2014), E-eyes (MobiCom 2014) 등
+
+4. DensePose From WiFi (Jiaqi Geng 등, arXiv 2023)
+
+
+
 # π RuView
 
 <p align="center">
